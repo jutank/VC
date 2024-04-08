@@ -87,10 +87,11 @@ CCTV-4K,https://itv.lat/tv/live.php?&line=1&id=cctv4k
 山西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+广西卫视,https://itv.lat/tv/live.php?&line=1&id=gxws
 广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 宁夏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 青海卫视,hhttp://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-西藏卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
+西藏卫视,https://itv.lat/tv/live.php?&line=1&id=xzws
 新疆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 内蒙古卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
@@ -155,6 +156,12 @@ IHOT爱喜剧,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600001
 IHOT爱悬疑,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 IHOT爱赛车,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
 IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+bestv华语影院,https://itv.lat/tv/live.php?&line=1&id=hyyy
+bestv星光影院,https://itv.lat/tv/live.php?&line=1&id=xgyy
+bestv谍战剧场,https://itv.lat/tv/live.php?&line=1&id=dzjc
+bestv全球大片,https://itv.lat/tv/live.php?&line=1&id=qqdp
+bestv热门剧场,https://itv.lat/tv/live.php?&line=1&id=rmjc
+bestv青春动漫,https://itv.lat/tv/live.php?&line=1&id=qcdm
 重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
@@ -228,6 +235,7 @@ CGTN,https://livedoc.cgtn.com/500d/prog_index.m3u8
 黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 IPTV少儿剧场,http://182.114.50.5:8888/rtp/225.1.4.189:1238
+bestv宝宝动画,https://itv.lat/tv/live.php?&line=1&id=bbdh
 IHOT爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000059/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=3
 IHOT爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 IHOT爱玩具,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
